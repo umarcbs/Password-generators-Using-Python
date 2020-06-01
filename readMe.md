@@ -2,7 +2,7 @@
 Three programs to generate random passwords:
 - 1 Auto Password Generator (8, 16, 32, 64)
 - 2 Length Password Generator (Specify Length)
-- 3 Length and Level Password Generator (Specify Lemgth and Level)
+- 3 Length and Level Password Generator (Specify Length and Level)
 
 # How to Use
 - In order to run 1, enter command:
